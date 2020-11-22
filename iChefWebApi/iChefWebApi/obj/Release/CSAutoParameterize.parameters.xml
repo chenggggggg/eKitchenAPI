@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="eKitchenDB-Web.config Connection String" description="eKitchenDB Connection String used in web.config by the application to access the database." defaultValue="Server=127.0.0.1;Port=3306;Database=eKitchenDB;Uid=root;Pwd=ikweetniks3;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\1\.\ Programming\\1\.\ Projects\\Xamarin\\ChefApp\\iChef\\iChefWebApi\\iChefWebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='eKitchenDB']/@connectionString" />
+  </parameter>
+</parameters>
